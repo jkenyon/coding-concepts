@@ -7,7 +7,9 @@ Oct 15, 2019
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkenyon/coding-concepts/master)
 
 
+
 References and Other Useful Resources:
+
 * [Safari: O'Reilly's Learning Platform for Higher Education](http://ida.lib.uidaho.edu:2048/login?url=https://www.oreilly.com/library/view/temporary-access/) \(aka Safari Books Online\)
 ** In Safari - Martin, R. 2008.  *Clean Code.*  NY: Prentice Hall.
 * [Codecademy](https://www.codecademy.com/) - the exercises here are easy, clear, and will get you started

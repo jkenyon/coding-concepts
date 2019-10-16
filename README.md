@@ -13,7 +13,7 @@ Start the workshop server below:<br>
 References and Other Useful Resources:
 
 * [Safari: O'Reilly's Learning Platform for Higher Education](http://ida.lib.uidaho.edu:2048/login?url=https://www.oreilly.com/library/view/temporary-access/) \(aka Safari Books Online\)
-** In Safari - Martin, R. 2008.  *Clean Code.*  NY: Prentice Hall.
+* In Safari: Martin, R. 2008.  *Clean Code.*  NY: Prentice Hall.
 * [Codecademy](https://www.codecademy.com/) - the exercises here are easy, clear, and will get you started
 * [OpenRefine](http://openrefine.org/) - this is a tool that fits somewhere between coding and using Excel.  You can work with clean, and transform data easily, especially if you understand basic principles of writing code.
 * Thompson, C. 2019.  [Coders: the making of a new tribe and the remaking of the world.](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71297199260001451) NY: Penguin. - Great insights into the world of programming and the tech industry.
